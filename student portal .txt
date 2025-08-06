@@ -1,0 +1,4 @@
+A student portal application is a web-based
+platform designed to provide
+students with centralized access to 
+academic information, resources, and services.
